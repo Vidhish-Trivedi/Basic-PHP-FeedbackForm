@@ -12,5 +12,5 @@
         die("Connection to MySQL failed: " . $connection->connect_error);
     }
 
-    echo "Connected to MySQL";
+    // echo "Connected to MySQL";
 ?>
